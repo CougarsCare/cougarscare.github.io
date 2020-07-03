@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
+title: "Cougars Care!"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
