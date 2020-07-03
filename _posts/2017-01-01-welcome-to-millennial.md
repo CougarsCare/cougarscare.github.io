@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cougars Care!"
+title: "Apply for Aid"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]

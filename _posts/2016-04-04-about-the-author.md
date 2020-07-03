@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "How to Help"
 author: "Paul Le"
 categories: facts
 tags: [sample]
