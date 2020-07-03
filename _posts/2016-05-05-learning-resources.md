@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "About Us"
+author: "stemcoders"
 categories: resources
 tags: [documentation,sample]
 image: arctic-4.jpg
