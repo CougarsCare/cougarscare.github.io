@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Coronado Cougars Care"
 description:	       "A group dedicated to helping our local community"
-author:              "Paul Le"
+author:              ""
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
