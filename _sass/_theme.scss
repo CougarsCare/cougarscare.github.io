@@ -6,7 +6,7 @@ body {
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
-  font-family: monospace;
+  font-family: cursive;
 }
 
 .container {
