@@ -7,17 +7,8 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Apply for Assitance 
+### Apply for Assitance 
 [A link](https://docs.google.com/forms/d/e/1FAIpQLSdidJYHuTPQTDpk7IWlpb6c5bsWefsyfT-FyRves7MbnIoyoQ/viewform "Cougars Care Application for Assistance ")
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
 
 <small>A small element</small>
 
