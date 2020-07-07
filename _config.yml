@@ -81,9 +81,9 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/largeredpaw.gif" # Site logo, also used in jekyll-seo-tag
+lang: en-US # Set the site language
+title: "Coronado Cougars Care" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/images/largeredpaw.gif" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -122,7 +122,7 @@ navigation_header:
   #url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Theme Created by David Darnes
+- title: Run by Coronado High School
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
