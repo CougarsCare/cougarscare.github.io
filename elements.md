@@ -2,7 +2,7 @@
 title: Elements
 feature_text: |
   A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/Group-photo2.jpg?raw=true"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
