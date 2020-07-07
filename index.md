@@ -8,7 +8,16 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 layout: page
 ---
 
-This is a test.
+·         Provided 125 Thanksgiving boxes of food for Coronado families
+·         Over 400 students received clothing in our clothing exchange
+·         Established clothing boxes that are in the hallways for students to take clothing whenever needed
+·         Contributed over $2500 in scholarships to graduating seniors
+·         Provided over a dozen caps and gowns for Coronado graduates
+·         Provided over 25 backpacks with school supplies to students at Coronado
+·         Provided $500 worth of snacks to students to combat hunger
+·         Provided over 100 brown bag lunches to students in need 
+·         Supported students with over $1000 in class fees and field trip fees 
+·         Over 200 volunteers (mostly students) helped to make all this possible
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
 
