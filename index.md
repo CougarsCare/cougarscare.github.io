@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: Cougar Cares 
 feature_text: |
   ## Computing For Good
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
