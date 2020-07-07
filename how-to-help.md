@@ -1,5 +1,5 @@
 ---
-title: Elements
+title: How to Help
 feature_text: |
   A demo of Markdown and HTML includes
 feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/Brent-Parade-copy.jpg?raw=true"
