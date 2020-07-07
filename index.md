@@ -18,5 +18,5 @@ layout: page
 *         Provided over 100 brown bag lunches to students in need 
 *         Supported students with over $1000 in class fees and field trip fees 
 *         Over 200 volunteers (mostly students) helped to make all this possible
----
-Thanks to our Board of Directors and our many donors! 
+
+<small> Thanks to our Board of Directors and our many donors! </small>
