@@ -6,7 +6,7 @@ feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-s
 excerpt: "Hi"
 aside: true
 ---
-
+> "Small Acts, When Multiplied By Millions of People, Can Transform The World" -Howard Zinn
 
 
 
@@ -20,7 +20,7 @@ aside: true
 
 
 
-> "Small Acts, When Multiplied By Millions of People, Can Transform The World" -Howard Zinn
+
 
 
 
