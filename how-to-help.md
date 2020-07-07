@@ -6,7 +6,7 @@ feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-s
 excerpt: "Over (insert amount) People Donate Each Year"
 aside: true
 ---
-> "Small Acts, When Multiplied By Millions of People, Can Transform The World" -Howard Zinn
+> "Small Acts, When Multiplied By Millions of People, Can Transform The World" - Howard Zinn
 
 
 
