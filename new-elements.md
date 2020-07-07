@@ -8,9 +8,9 @@ aside: true
 ---
 
 ### Apply for Assitance 
-[A link](https://docs.google.com/forms/d/e/1FAIpQLSdidJYHuTPQTDpk7IWlpb6c5bsWefsyfT-FyRves7MbnIoyoQ/viewform "Cougars Care Application for Assistance ")
+[Cougars Care Application for Assistance](https://docs.google.com/forms/d/e/1FAIpQLSdidJYHuTPQTDpk7IWlpb6c5bsWefsyfT-FyRves7MbnIoyoQ/viewform "Cougars Care Application for Assistance ")
 
-<small>A small element</small>
+If you prefer to print an application, [click here](http://teachersites.schoolworld.com/webpages/BUrban/files/cougars%20care%20application11-12.pdf "click here") and give the application to Brent Urban in room 111.
 
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
