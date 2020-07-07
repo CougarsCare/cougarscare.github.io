@@ -1,7 +1,7 @@
 ---
 title: How to Help
 feature_text: |
-  A demo of Markdown and HTML includes
+  Hi
 feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/Brent-Parade-copy.jpg?raw=true"
 excerpt: "Hi"
 aside: true
@@ -9,9 +9,9 @@ aside: true
 
 
 
-<small>A small element</small>
 
-[A link](https://david.darn.es "A link")
+
+
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
