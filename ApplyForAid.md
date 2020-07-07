@@ -19,9 +19,4 @@ Cougars Care will be awarding two scholarships in 2019 in the amount of $500 eac
 [Click Here to Access the Cougars Care Scholarship](https://docs.google.com/document/d/1O8blb8n60m8UzIjvf33giUJ_Fxk8NtNc8T6BJ7N7cvk/edit "Click Here to Access the Cougars Care Scholarship")
 
 ### More Questions? 
-
-{% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
+Email Brent Urban at brent.urban@d11.org
