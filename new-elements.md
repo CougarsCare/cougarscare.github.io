@@ -11,7 +11,7 @@ aside: true
 [Cougars Care Application for Assistance](https://docs.google.com/forms/d/e/1FAIpQLSdidJYHuTPQTDpk7IWlpb6c5bsWefsyfT-FyRves7MbnIoyoQ/viewform "Cougars Care Application for Assitance")
 
 If you prefer to print an application, [click here](http://teachersites.schoolworld.com/webpages/BUrban/files/cougars%20care%20application11-12.pdf "click here") and give the application to Brent Urban in room 111.
-[Spanish] (http://teachersites.schoolworld.com/webpages/BUrban/files/cougars%20care%20application%20in%20spanish%20%20%20en%20espanol.pdf "Spanish")
+[Applicación en español](http://teachersites.schoolworld.com/webpages/BUrban/files/cougars%20care%20application%20in%20spanish%20%20%20en%20espanol.pdf "Applicación en español")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
