@@ -7,8 +7,8 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Heading 1
-
+# Apply for Assitance 
+[A link](https://docs.google.com/forms/d/e/1FAIpQLSdidJYHuTPQTDpk7IWlpb6c5bsWefsyfT-FyRves7MbnIoyoQ/viewform "Cougars Care Application for Assistance ")
 ## Heading 2
 
 ### Heading 3
@@ -21,7 +21,6 @@ aside: true
 
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
