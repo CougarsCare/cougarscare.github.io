@@ -31,7 +31,7 @@ body {
     @include flex-direction(row);
     @include justify-content(space-between);
     padding: 1rem 0;
-    color = white;
+    color: white;
     @include breakpoint(break-1) {
       @include align-items(center);
     }
