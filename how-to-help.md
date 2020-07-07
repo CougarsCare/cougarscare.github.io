@@ -16,7 +16,7 @@ aside: true
 :You can help!!... 
 
 **Donate**
-:Please donate...
+:?????
 
 
 
