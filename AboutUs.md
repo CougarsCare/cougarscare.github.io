@@ -1,5 +1,5 @@
 ---
-title: Elements
+title: Who We Are
 feature_text: |
   A demo of Markdown and HTML includes
 feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/Group-photo2.jpg?raw=true"
@@ -7,8 +7,6 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 <br>
-# Who We Are
-
 ### Cougars Care has provided:
 
 * Over $50,000 in grants of food, class fees, sports fees, school supplies, as well as numerous other tangible requests
