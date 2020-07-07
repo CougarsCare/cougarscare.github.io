@@ -1,5 +1,5 @@
 ---
-title: About Alembic
+title: Cougars Care
 feature_text: |
   ## Coronado Cougars Care
   Cougars Care is Coronado's way of helping our community.  We partner with our students to make sure that no student is exempted from any part of their education based on tangible need.  
