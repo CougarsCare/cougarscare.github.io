@@ -41,12 +41,6 @@ With on campus and community fundraising as well as tremendous support from the 
 While Cougars Care has tried its best to impact the Coronado community, its vision is to duplicate itself throughout the district and be a model for other schools.  To this end, we will continue to serve our community and spread the vision.
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
-
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
-
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
-
 
 > A simple blockquote
 
