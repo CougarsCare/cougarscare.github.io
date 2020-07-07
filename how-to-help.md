@@ -12,11 +12,11 @@ aside: true
 
 
 
-# # #  **Get Involved**
-: You can help!!... 
+**Get Involved**
+You can help!!... 
 
-# # #  **Donate**
-: ?????
+**Donate**
+?????
 
 
 
