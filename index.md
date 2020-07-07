@@ -1,9 +1,10 @@
 ---
 title: About Alembic
 feature_text: |
-  ## Coronado Cougars Care
- Cougars Care is Coronado's way of helping our community.  We partner with our students to make sure that no student is exempted from any part of their education based on tangible need.  
-feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/testpic.jpg?raw=true"
+  ## Alembic
+  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+feature_image: "https://picsum.photos/1300/400?image=989"
+excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 layout: page
 ---
 
