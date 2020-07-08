@@ -36,4 +36,5 @@ layout: page
 * Coronado HS Clubs / Students
 * And many more!
 <br>
-And a final tahnks to out board of directors!
+<br>
+And a final thank you to our board of directors!
