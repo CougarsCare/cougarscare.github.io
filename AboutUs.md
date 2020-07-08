@@ -39,10 +39,6 @@ However, there is one exception to the deliberative process that takes place.  I
 With on campus and community fundraising as well as tremendous support from the Coronado staff, Cougars Care has been fortunate enough to have a significant impact within our community.  Since its beginning, Cougars Care has granted in excess of $50,000 of fees, supplies, and food to its students and staff.  Further, it has helped 100’s of students and staff at Coronado.  Educationally, Cougars Care has helped more than 500 students pay for class fees and stay in classes, which they would have previously been forced to drop.  Moreover, Cougars Care as achieved its goal of becoming a known entity on our campus as an avenue for assistance for anyone in need. 
 
 While Cougars Care has tried its best to impact the Coronado community, its vision is to duplicate itself throughout the district and be a model for other schools.  To this end, we will continue to serve our community and spread the vision.
-<small>A small element</small>
-
-
-> A simple blockquote
 
 
 
