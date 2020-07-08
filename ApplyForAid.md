@@ -6,6 +6,13 @@ feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-s
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
+
+### Our Policy
+#### Confidentiality
+The process of requesting a grant from Cougars Care is **always confidential and safe for those requesting help**.  If a student finds himself or herself in need and is unable to pay a class fee for example, he/she approaches any staff member and requests assistance.  An application is filled out in conjunction with that staff member while the staff member verifies the need.  Then, the request is submitted to Cougars Care Committee confidentially.  The only people to be aware of the actual name of the student requesting the grant are myself, the staff member who has signed the application, and our business office personnel that transfer the money into a particular account.  Though the student committee has the responsibility to decide to fund the grant or not, they do so knowing the details of the request but not the name of the individual.
+#### Ownership
+**We want every participant on every level to be involved and have ownership on every level.**  Therefore, we **never** grant 100% of a request.  We always ask the person requesting to take ownership in their request.  Typically we will pay 50% of a request and ask the participant to pay 50% or we will pay 100% and ask the individual to volunteer between 2 to 6 hours in the class or area that he/she is asking for help with.  For example, if Cougars Care is granting a request for an art fee, and 100% of the grant is paid, we ask the individual to volunteer a few hours in the art room.  Further, as another step of continued ownership, Cougars Care **doesn’t transfer money to the appropriate account until the individual has paid their portion or volunteered their hours**. 
+
 ### Apply for Assistance 
 [Cougars Care Application for Assistance](https://docs.google.com/forms/d/e/1FAIpQLSdidJYHuTPQTDpk7IWlpb6c5bsWefsyfT-FyRves7MbnIoyoQ/viewform "Cougars Care Application for Assistance")
 
