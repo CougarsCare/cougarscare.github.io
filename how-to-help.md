@@ -24,31 +24,49 @@ Because we are completely run and organized by volunteers, 100% of the funds rai
 **What we need all the time:**
 
 -Dry goods (canned food, pasta, rice, etc)
+
 -Healthy Snacks (fruit leathers, granola bars, etc.) 
+
 -Cereal
+
 -School Supplies
+
 -Backpacks (especially male backpacks)
+
 -Teenage clothes
+
 -$$$ - It takes $ to support teenagers!
 
 **Clothing exchange needs:**
 
 -Teenage clothes
+
 -Toiletries 
+
 -Feminine Products
 
 **Thanksgiving food distribution needs:**
 
 -$10 Gift Cards to King Soopers 
--Canned Goods (Fruit and Veggies) 
+
+-Canned Goods (Fruit and Veggies)
+
 -Dry Goods
+
 -Cardboard Boxes
+
 -Canned Cranberry Sauce
+
 -Canned Yams
+
 -Bags of Stuffing
+
 -Fresh Apples, Bananas, Oranges, 
+
 -Celery and Carrots
+
 -Potatoes 
+
 
 
 
