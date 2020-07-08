@@ -7,7 +7,7 @@ excerpt: ""
 aside: true
 ---
 
-{% include map.html id="1HQ7N1Jh1Pwg8b-3d4O6_G1tskLSXzt2e" title = "Cougars Care Location on Google Maps" %}
+{% include map.html id="1HQ7N1Jh1Pwg8b-3d4O6_G1tskLSXzt2e" title = "Coronado HS Location on Google Maps" %}
 
 ### Cougars Care has provided:
 
