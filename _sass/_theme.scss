@@ -77,9 +77,11 @@ body {
   a {
     padding: .2rem;
     color: yellow;
+  
     &:hover, &:active, &:focus {
     color: $hoverColour;
     text-decoration: none;
+    }
   }
   &--social a {
     display: inline-block;
