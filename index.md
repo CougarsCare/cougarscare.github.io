@@ -21,7 +21,7 @@ layout: page
 
 <small> Thanks to our Board of Directors and our many donors! </small>
 
-A special thanks to these donors: 
+#### A special thanks to these donors: 
 <br>
 * Rotary Prime - Thanks for volunteering and your generous donation.
 <br>
