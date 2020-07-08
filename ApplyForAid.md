@@ -7,7 +7,7 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 ### Apply for Assistance 
-[Cougars Care Application for Assistance](https://docs.google.com/forms/d/e/1FAIpQLSdidJYHuTPQTDpk7IWlpb6c5bsWefsyfT-FyRves7MbnIoyoQ/viewform "Cougars Care Application for Assitance")
+[Cougars Care Application for Assistance](https://docs.google.com/forms/d/e/1FAIpQLSdidJYHuTPQTDpk7IWlpb6c5bsWefsyfT-FyRves7MbnIoyoQ/viewform "Cougars Care Application for Assistance")
 
 If you prefer to print an application, [click here](http://teachersites.schoolworld.com/webpages/BUrban/files/cougars%20care%20application11-12.pdf "click here") and give the application to Brent Urban in room 111.
 <br>
