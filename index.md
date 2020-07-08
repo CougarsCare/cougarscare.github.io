@@ -25,7 +25,7 @@ A special thanks to these donors:
 <br>
 * Rotary Prime - Thanks for volunteering and your generous donation.
 <br>
-<img src="https://bffb2cc7-a-0d3af738-s-sites.googlegroups.com/a/d11.org/coronado-cougars-care/donors/rotaryprime.jpg?attachauth=ANoY7cqHbD3e1IBPdxMAxpvLce-iME3E2h3T6Atop8GlWPxucAueBPoH459285KwFSWbxwOmdsPuaU1WhQSIZsBe7Rbv8MjvV7zG_3NtkBC6csjwbg7XdIMYCFIG9ortytUQ-Mr8cSESQzDzddeHWrf4gUalNR4FQpUrrovu7K6P65Nu0YnsxP4sUnYLx94tbj_GF0-UeN9aLOtIWDjSLB0qTfEjkodyz2gpYoaSxwMhJW5CDU3RqR0%3D&attredirects=0" alt="Rotary Prime" height="100" width="100"> 
+<img src="https://bffb2cc7-a-0d3af738-s-sites.googlegroups.com/a/d11.org/coronado-cougars-care/donors/rotaryprime.jpg?attachauth=ANoY7cqHbD3e1IBPdxMAxpvLce-iME3E2h3T6Atop8GlWPxucAueBPoH459285KwFSWbxwOmdsPuaU1WhQSIZsBe7Rbv8MjvV7zG_3NtkBC6csjwbg7XdIMYCFIG9ortytUQ-Mr8cSESQzDzddeHWrf4gUalNR4FQpUrrovu7K6P65Nu0YnsxP4sUnYLx94tbj_GF0-UeN9aLOtIWDjSLB0qTfEjkodyz2gpYoaSxwMhJW5CDU3RqR0%3D&attredirects=0" alt="Rotary Prime" height="150" width="100"> 
 <br>
 * Dr. Trent Glaser Dental and Family - Thanks for your generous support!
 <br>
