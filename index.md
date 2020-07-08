@@ -33,6 +33,6 @@ A special thanks to these donors:
 <br>
 * King Soopers
 <br> 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/King_Soopers_logo.svg/1200px-King_Soopers_logo.svg.png" alt="King Soopers" height="90px" width="150px">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/King_Soopers_logo.svg/1200px-King_Soopers_logo.svg.png" alt="King Soopers" height="60px" width="150px">
 <br>
 * Coronado HS Clubs / Students
