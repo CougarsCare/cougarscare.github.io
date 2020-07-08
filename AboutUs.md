@@ -32,7 +32,7 @@ Cougars Care began with humble beginnings and a few hundred dollars to respond t
 
 A student committee was formed in order to engage in the process of assisting its community.  The Cougars Care committee is always open to any staff or student.  Its goal is to, by consensus, determine the most prudent and compassionate way to respond to our fellow students and staff in need. 
 
-> The process of requesting a grant from Cougars Care is always confidential and safe for those requesting help.
+> The process of requesting a grant from Cougars Care is **always** confidential and safe for those requesting help.
 
 The process of requesting a grant from Cougars Care is always confidential and safe for those requesting help.  If a student finds himself or herself in need and is unable to pay a class fee for example, he/she approaches any staff member and requests assistance.  An application is filled out in conjunction with that staff member while the staff member verifies the need.  Then, the request is submitted to Cougars Care Committee confidentially.  The only people to be aware of the actual name of the student requesting the grant are myself, the staff member who has signed the application, and our business office personnel that transfer the money into a particular account.  Though the student committee has the responsibility to decide to fund the grant or not, they do so knowing the details of the request but not the name of the individual. 
 
