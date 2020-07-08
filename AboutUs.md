@@ -1,6 +1,7 @@
 ---
 title: About Cougars Care
-feature_text: |   
+feature_text: | ## The Need
+  Coronado High School has nearly a 50% free and reduced lunch rate.  In reality, the rate of students in food risk is much higher in high schools than reported.  For many reasons, not all students that qualify for free and reduced services apply.  Often times the needed paper work doesn't get filled out for a variety of reasons: stability of family, transition and transitory issues, as well of others.  We are continually seeing an increase in need by our students.
 feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/Group-photo2.jpg?raw=true"
 excerpt: ""
 aside: true
