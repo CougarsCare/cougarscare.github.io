@@ -19,9 +19,8 @@ layout: page
 *         Supported students with over $1000 in class fees and field trip fees 
 *         Over 200 volunteers (mostly students) helped to make all this possible
 
-<small> Thanks to our Board of Directors and our many donors! </small>
 
-###### A special thanks to these donors: 
+##### A special thanks to these donors: 
 * Rotary Prime - Thanks for volunteering and your generous donation.
 <br>
 <img src="https://bffb2cc7-a-0d3af738-s-sites.googlegroups.com/a/d11.org/coronado-cougars-care/donors/rotaryprime.jpg?attachauth=ANoY7cqHbD3e1IBPdxMAxpvLce-iME3E2h3T6Atop8GlWPxucAueBPoH459285KwFSWbxwOmdsPuaU1WhQSIZsBe7Rbv8MjvV7zG_3NtkBC6csjwbg7XdIMYCFIG9ortytUQ-Mr8cSESQzDzddeHWrf4gUalNR4FQpUrrovu7K6P65Nu0YnsxP4sUnYLx94tbj_GF0-UeN9aLOtIWDjSLB0qTfEjkodyz2gpYoaSxwMhJW5CDU3RqR0%3D&attredirects=0" alt="Rotary Prime" height="150" width="100"> 
@@ -35,3 +34,6 @@ layout: page
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/King_Soopers_logo.svg/1200px-King_Soopers_logo.svg.png" alt="King Soopers" height="60px" width="130px">
 <br>
 * Coronado HS Clubs / Students
+* And many more!
+<br>
+And a final tahnks to out board of directors!
