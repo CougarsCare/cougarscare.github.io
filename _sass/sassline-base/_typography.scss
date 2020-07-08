@@ -26,7 +26,7 @@ a {
   transition: color .1s, background-color .1s;
 
   &:hover, &:active, &:focus {
-    color: $hoverColour;
+    color: #a62c2c ;
     text-decoration: none;
   }
 }
@@ -36,7 +36,7 @@ a {
 
   // Nice underlines for text links.
   p a, li a {
-    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,#B93131  50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
     background-size: 100% 0.15rem;
