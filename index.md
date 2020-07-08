@@ -29,7 +29,7 @@ A special thanks to these donors:
 <br>
 * Dr. Trent Glaser Dental and Family - Thanks for your generous support!
 <br>
-<img src="https://bffb2cc7-a-0d3af738-s-sites.googlegroups.com/a/d11.org/coronado-cougars-care/donors/image1.png?attachauth=ANoY7coQzIGcbDTOMlCz90LemHM22lDUSKyKNqp0Misvlu6-b55f_ACB9A9QgOKozP3c-rfTaBry53pd305ePpzwJrfHbt87cgszdiDvMCPDNqfua_oxI3U3MiQ0aeonBx1uXzuqXrUbq8m2PSX8rYHp5TMHySF9XbQng88Ye_iHtx8qpjyUWWpRfUIOpbeu8hJjxzPO9JLawiAKE48GBExmBo5T0k6UN1_jOfcZy9wHGpXfc065IS8%3D&attredirects=0" alt="Powers Dental Group" height="100" width="100">
+<img src="https://bffb2cc7-a-0d3af738-s-sites.googlegroups.com/a/d11.org/coronado-cougars-care/donors/image1.png?attachauth=ANoY7coQzIGcbDTOMlCz90LemHM22lDUSKyKNqp0Misvlu6-b55f_ACB9A9QgOKozP3c-rfTaBry53pd305ePpzwJrfHbt87cgszdiDvMCPDNqfua_oxI3U3MiQ0aeonBx1uXzuqXrUbq8m2PSX8rYHp5TMHySF9XbQng88Ye_iHtx8qpjyUWWpRfUIOpbeu8hJjxzPO9JLawiAKE48GBExmBo5T0k6UN1_jOfcZy9wHGpXfc065IS8%3D&attredirects=0" alt="Powers Dental Group" height="100" width="150">
 <br>
 * King Soopers
 <br>
