@@ -1,7 +1,7 @@
 ---
 title: About Cougars Care
-feature_text: |
-  
+feature_text: | The Need
+  Coronado High School has nearly a 50% free and reduced lunch rate.  In reality, the rate of students in food risk is much higher in high schools than reported.  For many reasons, not all students that qualify for free and reduced services apply.  Often times the needed paper work doesn't get filled out for a variety of reasons: stability of family, transition and transitory issues, as well of others.  We are continually seeing an increase in need by our students.  
 feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/Group-photo2.jpg?raw=true"
 excerpt: ""
 aside: true
@@ -39,10 +39,6 @@ However, there is one exception to the deliberative process that takes place.  I
 With on campus and community fundraising as well as tremendous support from the Coronado staff, Cougars Care has been fortunate enough to have a significant impact within our community.  Since its beginning, Cougars Care has granted in excess of $50,000 of fees, supplies, and food to its students and staff.  Further, it has helped 100’s of students and staff at Coronado.  Educationally, Cougars Care has helped more than 500 students pay for class fees and stay in classes, which they would have previously been forced to drop.  Moreover, Cougars Care as achieved its goal of becoming a known entity on our campus as an avenue for assistance for anyone in need. 
 
 While Cougars Care has tried its best to impact the Coronado community, its vision is to duplicate itself throughout the district and be a model for other schools.  To this end, we will continue to serve our community and spread the vision.
-<small>A small element</small>
-
-
-> A simple blockquote
 
 
 
