@@ -29,10 +29,10 @@ A special thanks to these donors:
 <br>
 * Dr. Trent Glaser Dental and Family - Thanks for your generous support!
 <br>
-<img src="https://bffb2cc7-a-0d3af738-s-sites.googlegroups.com/a/d11.org/coronado-cougars-care/donors/image1.png?attachauth=ANoY7coQzIGcbDTOMlCz90LemHM22lDUSKyKNqp0Misvlu6-b55f_ACB9A9QgOKozP3c-rfTaBry53pd305ePpzwJrfHbt87cgszdiDvMCPDNqfua_oxI3U3MiQ0aeonBx1uXzuqXrUbq8m2PSX8rYHp5TMHySF9XbQng88Ye_iHtx8qpjyUWWpRfUIOpbeu8hJjxzPO9JLawiAKE48GBExmBo5T0k6UN1_jOfcZy9wHGpXfc065IS8%3D&attredirects=0" alt="Powers Dental Group" height="100" width="150">
+<img src="https://bffb2cc7-a-0d3af738-s-sites.googlegroups.com/a/d11.org/coronado-cougars-care/donors/image1.png?attachauth=ANoY7coQzIGcbDTOMlCz90LemHM22lDUSKyKNqp0Misvlu6-b55f_ACB9A9QgOKozP3c-rfTaBry53pd305ePpzwJrfHbt87cgszdiDvMCPDNqfua_oxI3U3MiQ0aeonBx1uXzuqXrUbq8m2PSX8rYHp5TMHySF9XbQng88Ye_iHtx8qpjyUWWpRfUIOpbeu8hJjxzPO9JLawiAKE48GBExmBo5T0k6UN1_jOfcZy9wHGpXfc065IS8%3D&attredirects=0" alt="Powers Dental Group" height="100" width="170">
 <br>
 * King Soopers
 <br> 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/King_Soopers_logo.svg/1200px-King_Soopers_logo.svg.png" alt="King Soopers" height="60px" width="150px">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/King_Soopers_logo.svg/1200px-King_Soopers_logo.svg.png" alt="King Soopers" height="60px" width="130px">
 <br>
 * Coronado HS Clubs / Students
