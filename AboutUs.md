@@ -7,6 +7,8 @@ excerpt: ""
 aside: true
 ---
 
+{% include map.html id="1HQ7N1Jh1Pwg8b-3d4O6_G1tskLSXzt2e" title = "Cougars Care Location" %}
+
 ### Cougars Care has provided:
 
 * Over $50,000 in grants of food, class fees, sports fees, school supplies, as well as numerous other tangible requests
