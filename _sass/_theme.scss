@@ -59,7 +59,7 @@ img {
   background-position: center;
   .container {
     min-height: 40vh;
-    max-width: 60%;
+    max-width: 100%;
     @include flex-direction(column);
     @include justify-content(center);
   }
