@@ -31,7 +31,7 @@ layout: page
 <br>
 * King Soopers
 <br> 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/King_Soopers_logo.svg/1200px-King_Soopers_logo.svg.png" alt="King Soopers" height="60px" width="130px">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/King_Soopers_logo.svg/1200px-King_Soopers_logo.svg.png" alt="King Soopers" height="60px" width="130px" id="king-soopers-image">
 <br>
 * Coronado HS Clubs / Students
 * And many more!
