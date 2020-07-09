@@ -115,7 +115,7 @@ aside: true
   <div id="caption"></div>
 </div>
 
-<script src="modal.js"></script>
+<script src="https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/modal.js"></script>
 <small> Click to enlarge </small>
 
 
