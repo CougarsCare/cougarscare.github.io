@@ -47,7 +47,7 @@ aside: true
   margin: auto;
   display: block;
   width: 80%;
-  max-width: 700px;
+  max-width: 1000px;
 }
 
 /* Caption of Modal Image */
