@@ -18,14 +18,7 @@ aside: true
 
 
 <img src="https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/CoronadoFloorPlanV2.png?raw=true" alt="Coronado Floor Plan Room 111" height="200" width="300">
-$(function ()
-{
-    $('#imageid').on('click', function ()
-    {
-        $(this).width(1000);
-    });
-});
-</img>
+
 
 
 **Donate**
