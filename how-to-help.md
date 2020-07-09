@@ -17,6 +17,7 @@ aside: true
  The Cougars Care Board of Directors meets every Thursday afternoon from 3:05 - 3:30 in room 111.  It is open to all students, staff, and Coronado community members.  Join us! 
 
 <img src="https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/CoronadoFloorPlanV2.png?raw=true" alt="Coronado Floor Plan Room 111" height="200" width="300">
+<style>
 .img:hover{
     color: #424242; 
   -webkit-transition: all .3s ease-in;
@@ -30,6 +31,7 @@ aside: true
   -webkit-transform: scale(1.15); 
 
 }
+</style>
 
 **Donate**
  
