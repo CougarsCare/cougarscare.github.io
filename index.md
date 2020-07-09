@@ -23,11 +23,11 @@ layout: page
 #### A special thanks to our donors: 
 * Rotary Prime - Thanks for volunteering and your generous donation.
 <br>
-<img src="https://bffb2cc7-a-0d3af738-s-sites.googlegroups.com/a/d11.org/coronado-cougars-care/donors/rotaryprime.jpg" alt="Rotary Prime" height="150" width="100"> 
+<img src="https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/rotaryprime.jpg?raw=true" alt="Rotary Prime" height="150" width="100"> 
 <br>
 * Dr. Trent Glaser Dental and Family - Thanks for your generous support!
 <br>
-<img src="https://bffb2cc7-a-0d3af738-s-sites.googlegroups.com/a/d11.org/coronado-cougars-care/donors/image1.png" alt="Powers Dental Group" height="100" width="170">
+<img src="https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/powers-dental-group.png?raw=true" alt="Powers Dental Group" height="100" width="170">
 <br>
 * King Soopers
 <br> 
