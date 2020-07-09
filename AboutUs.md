@@ -39,7 +39,7 @@ The process of requesting a grant from Cougars Care is always confidential and s
 
 When the Cougars Care Committee considers a grant request, we hold two values dear.  First, we consider that no grant request has greater value than another.  We consider all requests to have value.  Therefore, a request for track shoes is not less or more important than a request for assistance with a class fee.
 
-> [W]e want every participant on every level to be involved and have ownership on every level. Therefore, we never grant 100% of a request.  We always ask the person requesting to take ownership in their request.
+> We want every participant on every level to be involved and have ownership on every level. Therefore, we never grant 100% of a request.  We always ask the person requesting to take ownership in their request.
 
 Second, we want every participant on every level to be involved and have ownership on every level. Therefore, we never grant 100% of a request.  We always ask the person requesting to take ownership in their request.  Typically we will pay 50% of a request and ask the participant to pay 50% or we will pay 100% and ask the individual to volunteer between 2 to 6 hours in the class or area that he/she is asking for help with.
 
