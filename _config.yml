@@ -86,7 +86,7 @@ title: "Coronado Cougars Care" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/images/yellow-paw-print.png" # Site logo, also used in jekyll-seo-tag
 description: "Cougars Care is Coronado's way of helping our community.  We partner with our students to make sure that no student is exempted from any part of their education based on tangible need." # Site description and default description, also used in jekyll-seo-tag
 url: "https://coding-for-social-service.github.io/" # Site url, also used in jekyll-seo-tag
-baseurl: "https://coding-for-social-service.github.io/"
+baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
