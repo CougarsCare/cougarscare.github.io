@@ -137,7 +137,7 @@ span.onclick = function() {
   modal.style.display = "none";
 }
 </script>
-
+<small> Click to enlarge </small>
 
 
 **Donate**
