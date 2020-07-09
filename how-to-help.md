@@ -21,13 +21,14 @@ aside: true
 
 /* The Image (not in modal) */
 #coronado-floor-plan {
-  border-radius: 5px;
+  border-radius: 5px; /* Rounded radius */
   cursor: pointer;
   transition: 0.3s;
 }
 
+/* The Image (not in modal) when hovered over */
 #coronado-floor-plan:hover {
-  opacity: 0.7;
+  opacity: 0.7; /* 30% transparent upon hover */
 }
 
 /* The Modal (background) */
@@ -36,8 +37,8 @@ aside: true
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
   padding-top: 100px; /* Location of the box */
-  left: 0;
-  top: 0;
+  left: 0; /* No margin with left */
+  top: 0; /* No margin with top */
   width: 100%; /* Full width */
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
@@ -49,17 +50,17 @@ aside: true
 .modal-content {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 1000px;
+  width: 80%; /* Image width is 80% */
+  max-width: 1000px; /* Maximum width 1000px */
 }
 
 /* Caption of Modal Image */
 #caption {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
-  text-align: center;
+  width: 80%; /* Caption width is 80% */
+  max-width: 700px; /* Maximum width 700px */
+  text-align: center; /* Center-aligned text */
   color: #ccc;
   padding: 10px 0;
   height: 150px;
@@ -67,12 +68,14 @@ aside: true
 
 /* Add Animation */
 .modal-content, #caption {  
+  /* 0.6s zoom animation */
   -webkit-animation-name: zoom;
   -webkit-animation-duration: 0.6s;
   animation-name: zoom;
   animation-duration: 0.6s;
 }
 
+/* The modal begins at size 0% and then increases to size 100%. */
 @-webkit-keyframes zoom {
   from {-webkit-transform:scale(0)} 
   to {-webkit-transform:scale(1)}
@@ -85,10 +88,11 @@ aside: true
 
 /* The Close Button */
 .close {
+  /* 15px from the top, 35px from the right */
   position: absolute;
   top: 15px;
   right: 35px;
-  color: #f1f1f1;
+  color: #f1f1f1; /* White color */
   font-size: 40px;
   font-weight: bold;
   transition: 0.3s;
