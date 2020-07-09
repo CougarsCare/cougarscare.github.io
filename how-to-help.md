@@ -19,13 +19,16 @@ aside: true
 
 <style>
 
-#myImg {
+/* The Image (not in modal) */
+#coronado-floor-plan {
   border-radius: 5px;
   cursor: pointer;
   transition: 0.3s;
 }
 
-#myImg:hover {opacity: 0.7;}
+#coronado-floor-plan:hover {
+  opacity: 0.7;
+}
 
 /* The Modal (background) */
 .modal {
@@ -106,7 +109,7 @@ aside: true
 }
 </style>
 
-<img id="myImg" src="https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/CoronadoFloorPlanV2.png?raw=true" alt="Coronado Floor Plan Room 111" style="width:100%;max-width:300px">
+<img id="coronado-floor-plan" src="https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/CoronadoFloorPlanV2.png?raw=true" alt="Coronado Floor Plan Room 111" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
