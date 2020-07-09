@@ -50,7 +50,7 @@ Because we are completely run and organized by volunteers, 100% of the funds rai
 
 -Teenage clothes
 
--$$$ - It takes $ to support teenagers!
+-Donations - It takes donations to support teenagers!
 
 **Clothing exchange needs:**
 
