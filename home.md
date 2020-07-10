@@ -38,3 +38,7 @@ layout: page
 <br>
 <br>
 And a final thank you to our board of directors!
+
+<div id = "browser-warning">
+  <p>Warning: Some features may not be available on certain browsers, such as Internet Explorer.</p>
+</div>
