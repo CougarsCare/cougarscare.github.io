@@ -2,5 +2,5 @@
 title: Categories
 layout: categories
 excerpt: "Category index"
-aside: true
+aside: false
 ---
