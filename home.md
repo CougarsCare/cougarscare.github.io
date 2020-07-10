@@ -47,7 +47,7 @@ And a final thank you to our board of directors!
   #browser-warning {
     width: 100%;
     background-color: #ffc300;
-    padding: 10px;
+    padding: 20px;
   }
   #browser-warning-close-button {
     float: right;
