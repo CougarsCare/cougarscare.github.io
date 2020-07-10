@@ -144,7 +144,7 @@ aside: true
     modal.style.display = "none";
   }
 </script>
-<small>Click the image above to enlarge it and click the X to make it smaller.</small>
+<small style="font-weight: bold;">Click the image above to enlarge it and click the X to make it smaller.</small>
 
 
 **Donate**
