@@ -41,7 +41,7 @@ And a final thank you to our board of directors!
 
 <div id = "browser-warning">
   <span id="browser-warning-close-button" onclick="this.parentElement.style.display='none';">&times;</span>
-  <p>Note: Some features may not be available on certain browsers, such as Internet Explorer.</p>
+  <p>Note: The webpage may not display properly in certain browsers, such as Internet Explorer. Try using the latest version of Google Chrome or Microsoft Edge.</p>
 </div>
 <style>
   #browser-warning {
