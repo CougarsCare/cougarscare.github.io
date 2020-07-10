@@ -2,7 +2,7 @@
 title: How to Help
 feature_text: |
   Coronado High School has nearly a 50% free and reduced lunch rate.  In reality, the rate of students in food risk is much higher in high schools than reported.  For many   reasons, not all students that qualify for free and reduced services apply.  Often times the needed paper work doesn't get filled out for a variety of reasons: stability of family, transition and transitory issues, as well of others.  We are continually seeing an increase in need by our students.  
-feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/grey-cougars-care-image.jpg?raw=true"
+feature_image: "/assets/grey-cougars-care-image.jpg?raw=true"
 excerpt: "Coronado High School has nearly a 50% free and reduced lunch rate.  In reality, the rate of students in food risk is much higher in high schools than reported.  For many reasons, not all students that qualify for free and reduced services apply.  Often times the needed paper work doesn't get filled out for a variety of reasons: stability of family, transition and transitory issues, as well of others.  We are continually seeing an increase in need by our students."
 aside: true
 ---
@@ -113,7 +113,7 @@ aside: true
 }
 </style>
 
-<img id="coronado-floor-plan" src="https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/CoronadoFloorPlanV2.png?raw=true" alt="Coronado Floor Plan Room 111" style="width:100%;max-width:300px">
+<img id="coronado-floor-plan" src="/assets/images/CoronadoFloorPlanV2.png?raw=true" alt="Coronado Floor Plan Room 111" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
