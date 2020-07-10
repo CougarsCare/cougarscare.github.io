@@ -40,7 +40,7 @@ layout: page
 And a final thank you to our board of directors!
 
 <div id = "browser-warning">
-  <span id="browser-warning-close-button">&times;</span>
+  <span id="browser-warning-close-button" onclick="this.parentElement.style.display = 'none';">&times;</span>
   <p>Note: Some features may not be available on certain browsers, such as Internet Explorer.</p>
 </div>
 <style>
@@ -53,6 +53,7 @@ And a final thank you to our board of directors!
     float: right;
     cursor: pointer;
     transition: 0.3s;
+    font-weight: bold;
   }
   #browser-warning-close-button:hover {
     color: white;
