@@ -1,14 +1,10 @@
 ---
-title: Description of an Alembic
+title: Cougars Care
 categories:
 - General
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-The complete distilling apparatus consists of three parts: the "cucurbit" (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the "head" or "cap" (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping "tube" (Greek σωλήν), leading to the "receiver" (Arabic ḳābila, Greek ἄγγος or φιάλη) container.
+Mr. Urban and his Cougar Care cadre of students put together 100 boxes filled with non-perishables food items on Friday night, November 20, including all the Thanksgiving staples. They returned on Saturday morning to add fresh bread, fresh pies, and fresh vegetables. Truly a feast! Staff and volunteers added $10 gift cards from King Soopers to purchase a turkey or ham and helped the families in need by carrying their boxes to their cars or delivering them to their doorstep. Doing good feels good! 
 
-<!-- more -->
-
-Retorts have the "cap" and the "cucurbit" made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages.
-
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+<small>From Good News - Coronado HS - 2015</small>
