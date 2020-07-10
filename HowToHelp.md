@@ -144,7 +144,7 @@ aside: true
     modal.style.display = "none";
   }
 </script>
-<small style="font-weight: bold;">Click the image above to enlarge it and click the X to make it smaller.</small>
+<small>Click the image above to enlarge it and click the X to make it smaller.</small>
 
 
 **Donate**
@@ -177,3 +177,5 @@ Because we are completely run and organized by volunteers, 100% of the funds rai
 * Fresh Apples, Bananas, Oranges, 
 * Celery and Carrots
 * Potatoes 
+<br>
+Our Thanksgiving Food Distribution will take place in November.
