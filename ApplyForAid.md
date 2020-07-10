@@ -2,7 +2,7 @@
 title: Apply for Aid
 feature_text: |
  
-feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/images/Group-photo2.jpg?raw=true"
+feature_image: "/assets/images/Group-photo2.jpg?raw=true"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
