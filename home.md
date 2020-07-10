@@ -40,15 +40,21 @@ layout: page
 And a final thank you to our board of directors!
 
 <div id = "browser-warning">
-  <p>Warning: Some features may not be available on certain browsers, such as Internet Explorer.</p>
-  <p>&times;</p>
+  <span id="browser-warning-close-button">&times;</span>
+  <p>Note: Some features may not be available on certain browsers, such as Internet Explorer.</p>
 </div>
 <style>
   #browser-warning {
     width: 100%;
     background-color: rgb(200, 200, 200);
-  }
-  #browser-warning p {
     padding: 10px;
+  }
+  #browser-warning-close-button {
+    float: right;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #browser-warning-close-button:hover {
+    color: white;
   }
 </style>
