@@ -1,6 +1,6 @@
 ---
-title: Categories
+title: News
 layout: categories
-excerpt: "Category index"
+excerpt: "News about Cougars Care"
 aside: false
 ---
