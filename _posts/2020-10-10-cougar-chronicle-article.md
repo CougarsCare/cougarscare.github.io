@@ -1,7 +1,7 @@
 ---
 title: The Cougar Chronicle
 categories:
-- General
+- Cougar Chronicle
 feature_image: "https://picsum.photos/2560/600?image=733"
 ---
 
