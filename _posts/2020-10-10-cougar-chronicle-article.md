@@ -2,8 +2,9 @@
 title: The Cougar Chronicle
 categories:
 - Cougar Chronicle
-feature_image: "https://picsum.photos/2560/600?image=733"
+feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/testpic.jpg?raw=true"
 ---
+Written by Madison Marcy - 2015
 
 With as many students as Coronado has acquired over the years, there is an even bigger need for support in the community. While students can get help from other out of school resources, an amazing in school resource is Cougars Care, a club run by Spanish teacher Mr. Urban. Cougars Care is completely unique in the way that it helps the Coronado community, and is absolutely amazing at getting everyone what they need. Meeting Tuesdays after school in room 110, a group of dedicated students gathers to address the week’s needs, and to discuss current help for students.  The club members themselves make the decision regarding what kind of help to give the student, and what they as a club can do alongside the student to accomplish the goal. Cougars Care asks students who ask for their help to work alongside the club to accomplish the goal, whether that be paying part of the fee themselves or doing community service in order to have the whole fee paid for.
 
@@ -14,5 +15,3 @@ Cougars Care on average helps 200 to 300 students a year, helping the students t
 “What Cougars Care is for me is a way to think about students holistically, we don’t just think about them as math students or Spanish students, we understand that they have complex lives and needs,” said Mr. Urban, Spanish teacher, and Cougars Care Adviser.
 
 Cougars Care is open to everyone, whether they come every time or if they come once; it is an open place to be able to help other students. As a club their goal is to help all students, and to make Coronado a better community as a whole, one step and one student at a time.
-
-<small>Article Written by Madison Marcy for The Cougar Chronicle - 2015</small> 
