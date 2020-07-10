@@ -46,6 +46,9 @@ And a final thank you to our board of directors!
 <style>
   #browser-warning {
     width: 100%;
-    background-color: rgb(50, 50, 50);
+    background-color: rgb(200, 200, 200);
+  }
+  #browser-warning p {
+    padding: 10px;
   }
 </style>
