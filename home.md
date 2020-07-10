@@ -40,13 +40,13 @@ layout: page
 And a final thank you to our board of directors!
 
 <div id = "browser-warning">
-  <span id="browser-warning-close-button" onclick="this.parentElement.style.display = 'none';">&times;</span>
+  <span id="browser-warning-close-button" onclick="this.parentElement.style.display='none';">&times;</span>
   <p>Note: Some features may not be available on certain browsers, such as Internet Explorer.</p>
 </div>
 <style>
   #browser-warning {
     width: 100%;
-    background-color: rgb(200, 200, 200);
+    background-color: #ffc300;
     padding: 10px;
   }
   #browser-warning-close-button {
@@ -54,8 +54,9 @@ And a final thank you to our board of directors!
     cursor: pointer;
     transition: 0.3s;
     font-weight: bold;
+    font-size: 2em;
   }
   #browser-warning-close-button:hover {
-    color: white;
+    color: #B93131;
   }
 </style>
