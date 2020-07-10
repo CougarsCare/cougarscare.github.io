@@ -80,6 +80,7 @@ img {
   a {
     padding: .2rem;
     color: #ffc300;
+    font-weight: bold;
   
     &:hover, &:active, &:focus {
     color: $hoverColour;
