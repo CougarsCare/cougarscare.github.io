@@ -120,8 +120,6 @@ navigation_header:
   url: /News/
 - title: Search
   url: /search/
-- title: Test
-  url: /test/
 #- title: Fork Alembic
   #url: https://github.com/daviddarnes/alembic
 
