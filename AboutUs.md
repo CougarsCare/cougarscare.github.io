@@ -20,7 +20,7 @@ layout: page
 * allow students to access a clothing closet 
 * provide school supplies for students 
 * provide Thanksgiving food baskets for 100 Coronado families.<br>
-<small> From Good News - Coronado HS - 2015 </small>
+<!--<small> From Good News - Coronado HS - 2015 </small>-->
 <br>
 ### Location:
 {% include map.html id="1HQ7N1Jh1Pwg8b-3d4O6_G1tskLSXzt2e" title = "Coronado HS Location on Google Maps" %}
