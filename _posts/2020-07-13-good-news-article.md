@@ -2,7 +2,7 @@
 title: Cougars Care
 categories:
 - Good News
-feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/testpic.jpg?raw=true"
+feature_image: "https://github.com/CougarsCare/cougarscare.github.io/blob/master/assets/images/testpic.jpg?raw=true"
 ---
 2015
 
