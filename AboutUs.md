@@ -24,7 +24,7 @@ layout: page
 <br>
 ### Location:
 {% include map.html id="1HQ7N1Jh1Pwg8b-3d4O6_G1tskLSXzt2e" title = "Coronado HS Location on Google Maps" %}
-<a href="https://github.com/CougarsCare/cougarscare.github.io/blob/master/assets/images/Coronado-HS-Location-2.png?raw=true">Cougars Care Location Map</a>
+<a href="/assets/images/Coronado-HS-Location-2.png?raw=true" target="_blank">Cougars Care Location Map</a>
 ### The Cougars Care Backstory:
 Cougars Care is a non-profit organization that was created at Coronado High School in order to help meet the tangible needs of students that present themselves every day.  In 2005 and 2006, conversations began among the administration about how Coronado would be able to assist with the needs of students as the staff at Coronado was continually being inundated with requests for help with sports fees, class fees, school supplies, requests for food, graduation expense requests, as well as countless others.  By law, we couldn’t simply transfer money from our student government accounts for example into other accounts even though compassion abounded and staff and students felt the desire to respond to the numerous needs brought forth.  Meanwhile, our free and reduced lunch population had grown from single digits to approaching fifty percent. 
 
