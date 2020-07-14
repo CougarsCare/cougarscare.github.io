@@ -2,7 +2,7 @@
 title: The Cougar Chronicle
 categories:
 - Cougar Chronicle
-feature_image: "https://github.com/Coding-for-Social-Service/coding-for-social-service.github.io/blob/master/assets/testpic.jpg?raw=true"
+feature_image: "../assets/testpic.jpg?raw=true"
 ---
 Written by Madison Marcy - 2015
 
