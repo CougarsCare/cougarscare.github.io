@@ -3,7 +3,7 @@ title: About Cougars Care
 feature_text: | 
  
 feature_image: "/assets/images/Group-photo2.jpg?raw=true"
-excerpt: ""
+excerpt: "Describes the actions, location, and history of Cougars Care"
 aside: true
 layout: page
 ---
