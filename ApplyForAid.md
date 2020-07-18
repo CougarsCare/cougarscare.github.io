@@ -3,7 +3,7 @@ title: Apply for Aid
 feature_text: |
  
 feature_image: "/assets/images/Group-photo2.jpg?raw=true"
-excerpt: ""
+excerpt: "Applying for Assistance and Our Confidentiality and Ownership Policies"
 aside: true
 ---
 
