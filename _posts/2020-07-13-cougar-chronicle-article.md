@@ -2,6 +2,7 @@
 title: The Cougar Chronicle
 categories:
 - Cougar Chronicle
+excerpt: "With as many students as Coronado has acquired over the years, there is an even bigger need for support in the community. While students can get help from other out of school resources, an amazing in school resource is Cougars Care, a club run by Spanish teacher Mr. Urban. Cougars Care is completely unique in the way that it helps the Coronado community, and is absolutely amazing at getting everyone what they need."
 feature_image: "https://github.com/CougarsCare/cougarscare.github.io/blob/master/assets/images/testpic.jpg?raw=true"
 ---
 Written by Madison Marcy - 2015
