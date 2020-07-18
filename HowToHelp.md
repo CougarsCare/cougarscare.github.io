@@ -3,7 +3,7 @@ title: How to Help
 feature_text: |
   Coronado High School has nearly a 50% free and reduced lunch rate.  In reality, the rate of students in food risk is much higher in high schools than reported.  For many   reasons, not all students that qualify for free and reduced services apply.  Often times the needed paper work doesn't get filled out for a variety of reasons: stability of family, transition and transitory issues, as well of others.  We are continually seeing an increase in need by our students.  
 feature_image: "/assets/grey-cougars-care-image.jpg?raw=true"
-excerpt: "Coronado High School has nearly a 50% free and reduced lunch rate.  In reality, the rate of students in food risk is much higher in high schools than reported.  For many reasons, not all students that qualify for free and reduced services apply.  Often times the needed paper work doesn't get filled out for a variety of reasons: stability of family, transition and transitory issues, as well of others.  We are continually seeing an increase in need by our students."
+excerpt: "How to Get Involved with Cougars Care"
 aside: true
 ---
 > "Small Acts, When Multiplied By Millions of People, Can Transform The World" - Howard Zinn
