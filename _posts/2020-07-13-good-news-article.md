@@ -1,7 +1,7 @@
 ---
 title: Cougars Care
 categories:
-- Good_News
+- Good News
 excerpt: "Mr. Urban and his Cougar Care cadre of students put together 100 boxes filled with non-perishables food items on Friday night, November 20, including all the Thanksgiving staples. They returned on Saturday morning to add fresh bread, fresh pies, and fresh vegetables."
 feature_image: "https://github.com/CougarsCare/cougarscare.github.io/blob/master/assets/images/testpic.jpg?raw=true"
 ---
