@@ -8,7 +8,7 @@ excerpt: "Cougars Care is Coronado's way of helping our community.  We partner w
 layout: page
 ---
 
-*         Provided 125 Thanksgiving boxes of food for Coronado families
+*         Provided 200 Thanksgiving boxes of food for Coronado families
 *         Over 400 students received clothing in our clothing exchange
 *         Established clothing boxes that are in the hallways for students to take clothing whenever needed
 *         Contributed over $2500 in scholarships to graduating seniors
