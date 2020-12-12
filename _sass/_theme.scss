@@ -137,6 +137,7 @@ img {
   @include flex(1, 0, auto);
   @include justify-content(flex-start);
   margin-bottom: 1.6rem;
+  margin-top: 30px;
   @include breakpoint(break-1) {
     @include justify-content(center);
     @include flex-direction(row);
