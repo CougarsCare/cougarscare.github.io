@@ -5,6 +5,7 @@ feature_text: |
   Cougars Care is Coronado's way of helping our community.  We partner with our students to make sure that no student is exempted from any part of their education based on tangible need.
 feature_image: "/assets/images/greythanksgiving.jpeg?raw=true"
 excerpt: "Cougars Care is Coronado's way of helping our community.  We partner with our students to make sure that no student is exempted from any part of their education based on tangible need."
+aside: true
 layout: page
 ---
 
