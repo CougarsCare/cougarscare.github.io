@@ -22,12 +22,12 @@ body {
 // Links.
 a {
   color: #B93131;
-  text-decoration: none;
+  text-decoration:none;
   transition: color .1s, background-color .1s;
 
   &:hover, &:active, &:focus {
     color: $hoverColour ;
-    text-decoration: none;
+    text-decoration:none;
   }
 }
 
